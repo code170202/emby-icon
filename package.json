@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.44",
+	"description": "v1.0.46",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -52,11 +52,11 @@
 		},
 		{
 			"name": "cat-lucky-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-lucky/round1.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-lucky/round2.png"
 		},
 		{
 			"name": "cat-lucky-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-lucky/square1.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-lucky/square2.png"
 		},
 		{
 			"name": "123-round",
@@ -76,11 +76,11 @@
 		},
 		{
 			"name": "sleep-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/sleep/round1.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/sleep/round2.png"
 		},
 		{
 			"name": "sleep-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/sleep/square1.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/sleep/square2.png"
 		},
 		{
 			"name": "MisakaF-round",
@@ -196,11 +196,11 @@
 		},
 		{
 			"name": "BlueSea-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/BlueSea/round.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/BlueSea/round1.png"
 		},
 		{
 			"name": "BlueSea-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/BlueSea/square.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/BlueSea/square1.png"
 		},
 		{
 			"name": "StudyFun-round",

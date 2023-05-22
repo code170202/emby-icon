@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.42",
+	"description": "v1.0.43",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -28,11 +28,27 @@
 		},
 		{
 			"name": "cat-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/xuedinge/round2.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/xuedinge/round3.png"
 		},
 		{
 			"name": "cat-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/xuedinge/square2.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/xuedinge/square3.png"
+		},
+		{
+			"name": "pilipili-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/pilipili/round.png"
+		},
+		{
+			"name": "pilipili-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/pilipili/square.png"
+		},
+		{
+			"name": "cat-guang-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-guang/round2.png"
+		},
+		{
+			"name": "cat-guang-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-guang/square2.png"
 		},
 		{
 			"name": "cat-lucky-round",
@@ -57,22 +73,6 @@
 		{
 			"name": "yeye-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/yeye/square.png"
-		},
-		{
-			"name": "pilipili-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/pilipili/round.png"
-		},
-		{
-			"name": "pilipili-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/pilipili/square.png"
-		},
-		{
-			"name": "cat-guang-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-guang/round1.png"
-		},
-		{
-			"name": "cat-guang-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-guang/square1.png"
 		},
 		{
 			"name": "sleep-round",

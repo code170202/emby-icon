@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.43",
+	"description": "v1.0.44",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -292,11 +292,11 @@
 		},
 		{
 			"name": "Mulgore-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Mulgore/round.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Mulgore/round1.png"
 		},
 		{
 			"name": "Mulgore-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Mulgore/square.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Mulgore/square1.png"
 		},
 		{
 			"name": "Infinity-round",

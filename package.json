@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.47",
+	"description": "v1.0.48",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -97,6 +97,22 @@
 		{
 			"name": "sleep-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/sleep/square2.png"
+		},
+		{
+			"name": "shuiboliangshan-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/shuiboliangshan/round1.png"
+		},
+		{
+			"name": "shuiboliangshan-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/shuiboliangshan/square1.png"
+		},
+		{
+			"name": "liangshankezhan-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/liangshankezhan/round.png"
+		},
+		{
+			"name": "liangshankezhan-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/liangshankezhan/square.png"
 		},
 		{
 			"name": "MisakaF-round",
@@ -385,22 +401,6 @@
 		{
 			"name": "23studio-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/23Studio/square.png"
-		},
-		{
-			"name": "shuiboliangshan-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/shuiboliangshan/round.png"
-		},
-		{
-			"name": "shuiboliangshan-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/shuiboliangshan/square.png"
-		},
-		{
-			"name": "liangshankezhan-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/liangshankezhan/round.png"
-		},
-		{
-			"name": "liangshankezhan-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/liangshankezhan/square.png"
 		},
 		{
 			"name": "Flareix-round",

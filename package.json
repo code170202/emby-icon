@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.46",
+	"description": "v1.0.47",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -59,12 +59,20 @@
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-lucky/square2.png"
 		},
 		{
-			"name": "123-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/123/round.png"
+			"name": "Jav-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Jav/round.png"
 		},
 		{
-			"name": "123-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/123/square.png"
+			"name": "Jav-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Jav/square.png"
+		},
+		{
+			"name": "KSN-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/KSN/round.png"
+		},
+		{
+			"name": "KSN-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/KSN/square.png"
 		},
 		{
 			"name": "yeye-round",
@@ -73,6 +81,14 @@
 		{
 			"name": "yeye-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/yeye/square.png"
+		},
+		{
+			"name": "123-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/123/round.png"
+		},
+		{
+			"name": "123-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/123/square.png"
 		},
 		{
 			"name": "sleep-round",

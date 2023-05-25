@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.49",
+	"description": "v1.0.50",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -316,11 +316,11 @@
 		},
 		{
 			"name": "Paul-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Paul/round1.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Paul/round.png"
 		},
 		{
 			"name": "Paul-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Paul/square1.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Paul/square.png"
 		},
 		{
 			"name": "Mulgore-round",
@@ -593,6 +593,14 @@
 		{
 			"name": "yeji-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/yeji/square.png"
+		},
+		{
+			"name": "loopdns-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/loopdns/round.png"
+		},
+		{
+			"name": "loopdns-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/loopdns/square.png"
 		}
 	]
 }

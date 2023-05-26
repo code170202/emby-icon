@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.54",
+	"description": "v1.0.55",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -307,14 +307,6 @@
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Mulgore/square1.png"
 		},
 		{
-			"name": "Infinity-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Infinity/round.png"
-		},
-		{
-			"name": "Infinity-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Infinity/square.png"
-		},
-		{
 			"name": "NMG-round",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/NMG/nme_round.png"
 		},
@@ -577,6 +569,14 @@
 		{
 			"name": "CatFish-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/CatFish/square1.png"
+		},
+		{
+			"name": "Infinity-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Infinity/round1.png"
+		},
+		{
+			"name": "Infinity-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Infinity/square1.png"
 		},
 		{
 			"name": "More-round",

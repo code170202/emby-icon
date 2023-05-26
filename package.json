@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.51",
+	"description": "v1.0.52",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -251,6 +251,30 @@
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Misty/square.png"
 		},
 		{
+			"name": "weiwei-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/weiwei/round.png"
+		},
+		{
+			"name": "weiwei-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/weiwei/square.png"
+		},
+		{
+			"name": "Dv-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Dv/round.png"
+		},
+		{
+			"name": "Dv-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Dv/square.png"
+		},
+		{
+			"name": "Polo-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Polo/round.png"
+		},
+		{
+			"name": "Polo-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Polo/square.png"
+		},
+		{
 			"name": "PornEmby-round",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/PornEmby/round.png"
 		},
@@ -403,14 +427,6 @@
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/erciyuan/square.png"
 		},
 		{
-			"name": "More-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/More/round.png"
-		},
-		{
-			"name": "More-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/More/square.png"
-		},
-		{
 			"name": "BDD-round",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/BDD/round.png"
 		},
@@ -531,14 +547,6 @@
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/loopdns/square.png"
 		},
 		{
-			"name": "Polo-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Polo/round.png"
-		},
-		{
-			"name": "Polo-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Polo/square.png"
-		},
-		{
 			"name": "NakoNako-round",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/NakoNako/round.png"
 		},
@@ -553,22 +561,6 @@
 		{
 			"name": "pinyun-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/pinyun/square.png"
-		},
-		{
-			"name": "Plus-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Plus/round.png"
-		},
-		{
-			"name": "Plus-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Plus/square.png"
-		},
-		{
-			"name": "Dv-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Dv/round.png"
-		},
-		{
-			"name": "Dv-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Dv/square.png"
 		},
 		{
 			"name": "sese-round",
@@ -587,12 +579,20 @@
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/CatFish/square.png"
 		},
 		{
-			"name": "weiwei-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/weiwei/round.png"
+			"name": "More-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/More/round.png"
 		},
 		{
-			"name": "weiwei-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/weiwei/square.png"
+			"name": "More-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/More/square.png"
+		},
+		{
+			"name": "Plus-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Plus/round.png"
+		},
+		{
+			"name": "Plus-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Plus/square.png"
 		},
 		{
 			"name": "BaiPiaoWang-round",

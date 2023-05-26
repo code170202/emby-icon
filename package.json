@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.56",
+	"description": "v1.0.57",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -556,19 +556,19 @@
 		},
 		{
 			"name": "Magpie-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Magpie/round.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Magpie/round1magpie-.png"
 		},
 		{
 			"name": "Magpie-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Magpie/square.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Magpie/square1.png"
 		},
 		{
 			"name": "StarCat-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/StarCat/round.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/StarCat/round1.png"
 		},
 		{
 			"name": "StarCat-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/StarCat/square.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/StarCat/square1.png"
 		},
 		{
 			"name": "Lion-round",

@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.55",
+	"description": "v1.0.56",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -539,6 +539,54 @@
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/loopdns/square.png"
 		},
 		{
+			"name": "Infinity-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Infinity/round.png"
+		},
+		{
+			"name": "Infinity-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Infinity/square.png"
+		},
+		{
+			"name": "Magic-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Magic/round.png"
+		},
+		{
+			"name": "Magic-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Magic/square.png"
+		},
+		{
+			"name": "Magpie-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Magpie/round.png"
+		},
+		{
+			"name": "Magpie-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Magpie/square.png"
+		},
+		{
+			"name": "StarCat-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/StarCat/round.png"
+		},
+		{
+			"name": "StarCat-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/StarCat/square.png"
+		},
+		{
+			"name": "Lion-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Lion/round.png"
+		},
+		{
+			"name": "Lion-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Lion/square.png"
+		},
+		{
+			"name": "Maliao-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Maliao/round.png"
+		},
+		{
+			"name": "Maliao-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Maliao/square.png"
+		},
+		{
 			"name": "NakoNako-round",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/NakoNako/round1.png"
 		},
@@ -569,14 +617,6 @@
 		{
 			"name": "CatFish-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/CatFish/square1.png"
-		},
-		{
-			"name": "Infinity-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Infinity/round1.png"
-		},
-		{
-			"name": "Infinity-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Infinity/square1.png"
 		},
 		{
 			"name": "More-round",

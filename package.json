@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.57",
+	"description": "v1.0.58",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -97,6 +97,22 @@
 		{
 			"name": "sleep-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/sleep/square2.png"
+		},
+		{
+			"name": "han-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/han/round2.png"
+		},
+		{
+			"name": "han-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/han/square2.png"
+		},
+		{
+			"name": "wanou-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/wanou/round2.png"
+		},
+		{
+			"name": "wanou-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/wanou/square2.png"
 		},
 		{
 			"name": "shuiboliangshan-round",

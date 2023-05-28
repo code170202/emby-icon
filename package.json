@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.59",
+	"description": "v1.0.60",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -564,11 +564,11 @@
 		},
 		{
 			"name": "Magic-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Magic/round.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Magic/round1.png"
 		},
 		{
 			"name": "Magic-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Magic/square.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Magic/square1.png"
 		},
 		{
 			"name": "Magpie-round",

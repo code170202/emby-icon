@@ -603,14 +603,6 @@
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Maliao/square.png"
 		},
 		{
-			"name": "NakoNako-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/NakoNako/round1.png"
-		},
-		{
-			"name": "NakoNako-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/NakoNako/square1.png"
-		},
-		{
 			"name": "pinyun-round",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/pinyun/round1.png"
 		},
@@ -625,6 +617,14 @@
 		{
 			"name": "sese-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/sese/square2.png"
+		},
+		{
+			"name": "NakoNako-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/NakoNako/round1.png"
+		},
+		{
+			"name": "NakoNako-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/NakoNako/square1.png"
 		},
 		{
 			"name": "CatFish-round",

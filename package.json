@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.60",
+	"description": "v1.0.61",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -172,11 +172,11 @@
 		},
 		{
 			"name": "bgk-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/bgk/round.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/bgk/round1.png"
 		},
 		{
 			"name": "bgk--square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/bgk/square.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/bgk/square1.png"
 		},
 		{
 			"name": "Orange-round",

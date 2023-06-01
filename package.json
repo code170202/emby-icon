@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.61",
+	"description": "v1.0.62",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -27,12 +27,12 @@
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/CSN/square.png"
 		},
 		{
-			"name": "cat-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/xuedinge/round3.png"
+			"name": "xde-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/xde/round1.png"
 		},
 		{
-			"name": "cat-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/xuedinge/square3.png"
+			"name": "xde-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/xde/square1.png"
 		},
 		{
 			"name": "pilipili-round",

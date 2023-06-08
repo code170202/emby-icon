@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.63",
+	"description": "v1.0.64",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -371,14 +371,6 @@
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Ikoumi/square.png"
 		},
 		{
-			"name": "23studio-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/23Studio/round.png"
-		},
-		{
-			"name": "23studio-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/23Studio/square.png"
-		},
-		{
 			"name": "Flareix-round",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Flareix/round.png"
 		},
@@ -569,6 +561,14 @@
 		{
 			"name": "Magic-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Magic/square.png"
+		},
+		{
+			"name": "23studio-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/23Studio/round.png"
+		},
+		{
+			"name": "23studio-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/23Studio/square.png"
 		},
 		{
 			"name": "Magpie-round",

@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.64",
+	"description": "v1.0.65",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -563,14 +563,6 @@
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Magic/square.png"
 		},
 		{
-			"name": "23studio-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/23Studio/round.png"
-		},
-		{
-			"name": "23studio-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/23Studio/square.png"
-		},
-		{
 			"name": "Magpie-round",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Magpie/round2.png"
 		},
@@ -601,6 +593,14 @@
 		{
 			"name": "Maliao-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Maliao/square.png"
+		},
+		{
+			"name": "23studio-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/23Studio/round.png"
+		},
+		{
+			"name": "23studio-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/23Studio/square.png"
 		},
 		{
 			"name": "pinyun-round",

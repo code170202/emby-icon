@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.65",
+	"description": "v1.0.66",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -41,14 +41,6 @@
 		{
 			"name": "pilipili-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/pilipili/square.png"
-		},
-		{
-			"name": "cat-guang-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-guang/round2.png"
-		},
-		{
-			"name": "cat-guang-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-guang/square2.png"
 		},
 		{
 			"name": "cat-lucky-round",
@@ -531,14 +523,6 @@
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/wangzhe/square.png"
 		},
 		{
-			"name": "yeji-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/yeji/round.png"
-		},
-		{
-			"name": "yeji-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/yeji/square.png"
-		},
-		{
 			"name": "loopdns-round",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/loopdns/round.png"
 		},
@@ -593,6 +577,30 @@
 		{
 			"name": "Maliao-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Maliao/square.png"
+		},
+		{
+			"name": "Nirvana-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Nirvana/round.png"
+		},
+		{
+			"name": "Nirvana-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Nirvana/square.png"
+		},
+		{
+			"name": "yufu-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/yufu/round.png"
+		},
+		{
+			"name": "yufu-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/yufu/square.png"
+		},
+		{
+			"name": "yeji-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/yeji/round.png"
+		},
+		{
+			"name": "yeji-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/yeji/square.png"
 		},
 		{
 			"name": "23studio-round",

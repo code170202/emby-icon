@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.66",
+	"description": "v1.0.67",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -73,14 +73,6 @@
 		{
 			"name": "yeye-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/yeye/square.png"
-		},
-		{
-			"name": "123-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/123/round.png"
-		},
-		{
-			"name": "123-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/123/square.png"
 		},
 		{
 			"name": "sleep-round",
@@ -585,6 +577,14 @@
 		{
 			"name": "Nirvana-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Nirvana/square.png"
+		},
+		{
+			"name": "123-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/123/round.png"
+		},
+		{
+			"name": "123-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/123/square.png"
 		},
 		{
 			"name": "yufu-round",

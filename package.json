@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.67",
+	"description": "v1.0.68",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -577,6 +577,14 @@
 		{
 			"name": "Nirvana-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Nirvana/square.png"
+		},
+		{
+			"name": "BlueSea-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/BlueSea/round2.png"
+		},
+		{
+			"name": "BlueSea-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/BlueSea/square2.png"
 		},
 		{
 			"name": "123-round",

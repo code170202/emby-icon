@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.68",
+	"description": "v1.0.69",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -332,11 +332,19 @@
 		},
 		{
 			"name": "Fangyt-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Fangyt/round.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Fangyt/round1.png"
 		},
 		{
 			"name": "Fangyt-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Fangyt/square.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Fangyt/square1.png"
+		},
+			{
+			"name": "Fangyt-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Fangyt/round2.png"
+		},
+		{
+			"name": "Fangyt-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Fangyt/square2.png"
 		},
 		{
 			"name": "liuliangku-round",

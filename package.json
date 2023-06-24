@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.70",
+	"description": "v1.0.71",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -508,11 +508,11 @@
 		},
 		{
 			"name": "TeKa-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/TeKa/round.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/TeKa/round1.png"
 		},
 		{
 			"name": "TeKa-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/TeKa/square.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/TeKa/square1.png"
 		},
 		{
 			"name": "wangzhe-round",
@@ -593,6 +593,14 @@
 		{
 			"name": "DaFaShiJian-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/dafashijian/square.png"
+		},
+		{
+			"name": "TanHua-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/tanhua/round.png"
+		},
+		{
+			"name": "TanHua-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/tanhua/square.png"
 		},
 		{
 			"name": "BlueSea-round",

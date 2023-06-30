@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.71",
+	"description": "v1.0.72",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -284,11 +284,11 @@
 		},
 		{
 			"name": "HXD-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/HXD/round.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/HXD/round1.png"
 		},
 		{
 			"name": "HXD-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/HXD/square.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/HXD/square1.png"
 		},
 		{
 			"name": "Paul-round",

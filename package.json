@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.74",
+	"description": "v1.0.75",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -595,12 +595,12 @@
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Nirvana/square.png"
 		},
 		{
-			"name": "DaFaShiJian-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/dafashijian/round.png"
+			"name": "dashu-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/dashu/round1.png"
 		},
 		{
-			"name": "DaFaShiJian-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/dafashijian/square.png"
+			"name": "dashu-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/dashu/square1.png"
 		},
 		{
 			"name": "TanHua-round",

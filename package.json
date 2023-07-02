@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.76",
+	"description": "v1.0.77",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -604,11 +604,11 @@
 		},
 		{
 			"name": "TanHua-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/tanhua/round.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/tanhua/round1.png"
 		},
 		{
 			"name": "TanHua-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/tanhua/square.png"
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/tanhua/square1.png"
 		},
 		{
 			"name": "moonlight-round",

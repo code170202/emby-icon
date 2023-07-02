@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.72",
+	"description": "v1.0.73",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -51,6 +51,14 @@
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/cat-lucky/square2.png"
 		},
 		{
+			"name": "123-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/123/round1.png"
+		},
+		{
+			"name": "123-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/123/square1.png"
+		},
+		{
 			"name": "Jav-round",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/Jav/round.png"
 		},
@@ -97,14 +105,6 @@
 		{
 			"name": "wanou-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/wanou/square.png"
-		},
-		{
-			"name": "shuiboliangshan-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/shuiboliangshan/round1.png"
-		},
-		{
-			"name": "shuiboliangshan-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/shuiboliangshan/square1.png"
 		},
 		{
 			"name": "liangshankezhan-round",
@@ -603,20 +603,36 @@
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/tanhua/square.png"
 		},
 		{
+			"name": "moonlight-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/moonlight/round.png"
+		},
+		{
+			"name": "moonlight-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/moonlight/square.png"
+		},
+		{
+			"name": "gugu-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/gugu/round.png"
+		},
+		{
+			"name": "gugu-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/gugu/square.png"
+		},
+		{
+			"name": "shuiboliangshan-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/shuiboliangshan/round2.png"
+		},
+		{
+			"name": "shuiboliangshan-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/shuiboliangshan/square2.png"
+		},
+		{
 			"name": "BlueSea-round",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/BlueSea/round2.png"
 		},
 		{
 			"name": "BlueSea-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/BlueSea/square2.png"
-		},
-		{
-			"name": "123-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/123/round.png"
-		},
-		{
-			"name": "123-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/123/square.png"
 		},
 		{
 			"name": "yufu-round",

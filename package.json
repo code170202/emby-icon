@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.73",
+	"description": "v1.0.74",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -105,6 +105,14 @@
 		{
 			"name": "wanou-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/wanou/square.png"
+		},
+		{
+			"name": "shuiboliangshan-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/shuiboliangshan/round1.png"
+		},
+		{
+			"name": "shuiboliangshan-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/shuiboliangshan/square1.png"
 		},
 		{
 			"name": "liangshankezhan-round",
@@ -617,14 +625,6 @@
 		{
 			"name": "gugu-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/gugu/square.png"
-		},
-		{
-			"name": "shuiboliangshan-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/shuiboliangshan/round2.png"
-		},
-		{
-			"name": "shuiboliangshan-square",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/shuiboliangshan/square2.png"
 		},
 		{
 			"name": "BlueSea-round",

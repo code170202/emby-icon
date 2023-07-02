@@ -1,6 +1,6 @@
 {
 	"name": "Emby图标库",
-	"description": "v1.0.75",
+	"description": "v1.0.76",
 	"icons": [
 		{
 			"name": "emby-round",
@@ -625,6 +625,14 @@
 		{
 			"name": "gugu-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/gugu/square.png"
+		},
+			{
+			"name": "kiki-round",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/kiki/round.png"
+		},
+		{
+			"name": "kiki-square",
+			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/kiki/square.png"
 		},
 		{
 			"name": "BlueSea-round",
